@@ -36,11 +36,11 @@ public class Array2D {
 
         //getting number of column
         System.out.print("Number of column : ");
-        getColumn=scanInput.nextInt();
+        getColumn =scanInput.nextInt();
 
         //getting number of rows
         System.out.print("Number of rows : ");
-        getRows=scanInput.nextInt();
+        getRows =scanInput.nextInt();
 
         System.out.println("Enter number : ");
         //calling function for storing and printing array
